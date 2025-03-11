@@ -17,7 +17,6 @@ min-height: 100vh;
     h1{
         font-size : 25px;
         padding : 20px;
-        border-bottom : 0.5px solid white;
     }
 }
 .content{
@@ -38,7 +37,7 @@ min-height: 100vh;
     }
 }
 .logout{
-position: absolute;
+    position: absolute;
     bottom: 20px; 
     left: 30%;
     transform: translateX(-50%);
@@ -46,9 +45,7 @@ position: absolute;
     display: flex;
     align-items: center;
     justify-content: center;
-    img{
-        transform : rotate(180deg);
-    }
+
 }
 `
 

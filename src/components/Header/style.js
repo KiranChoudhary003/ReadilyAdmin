@@ -9,13 +9,13 @@ color : white;
     justify-content : space-between;
     align-items : center;
     h1{
-        font-size : 25px;
+        font-size : 35px;
         padding : 20px;
-        border-left : 0.5px solid white;
+        padding-left : 500px;
     }   
     img{
-        width : 20px;
-        height : 20px;
+        width : 30px;
+        height : 30px;
         padding-right : 20px;
     }
 }

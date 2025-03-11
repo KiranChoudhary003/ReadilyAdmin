@@ -18,7 +18,6 @@ const Wrapper = styled.div`
       font-size: 25px;
       color: white;
       padding: 20px; 
-      border-bottom: 1px solid white; 
       width : 210px;
   }
 
